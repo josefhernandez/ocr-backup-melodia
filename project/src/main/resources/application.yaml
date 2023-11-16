@@ -1,0 +1,7 @@
+spring.datasource.url: jdbc:mysql://localhost/backup?serverTimezone=CET&enabledTLSProtocols=TLSv1.2
+spring.datasource.username: isthari
+spring.datasource.password: galileo
+spring.jpa.hibernate.ddl-auto: update
+spring.jpa.database: MYSQL
+
+pulseaudio.path: /home/jhernan/Desktop/git/ondacero/ocr-backup-melodia/libnative/build
